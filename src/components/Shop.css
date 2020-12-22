@@ -1,0 +1,36 @@
+.bookimg > img {
+    height: 10em;
+}
+
+.book {
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    padding: 2em;
+    margin: 3em;
+    border: solid 2px brown;
+}
+
+.bookcont {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.cartcont {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    width: 5em;
+    margin-top: 1em;
+}
+
+h2, h5 {
+    text-align: center;
+}
+
+.quantity, span {
+    margin: 0.5em;
+}
